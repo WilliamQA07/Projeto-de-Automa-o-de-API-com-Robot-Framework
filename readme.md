@@ -85,6 +85,10 @@ Após a execução, os relatórios estarão disponíveis em `results/`, incluind
 - `report.html`: Sumário dos resultados dos testes.
 - `output.xml`: Arquivo de saída dos testes, utilizado para integrar com outras ferramentas de CI.
 
+## Relatório de automação
+![image](https://github.com/user-attachments/assets/1a8e092d-20b0-4c40-b807-3869411d66a1)
+
+
 ## Autor
 
 - **William Souza**
